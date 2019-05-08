@@ -1,1 +1,1 @@
-"# Curso de React Moderno com Redux" 
+# Curso de React Moderno com Redux 
