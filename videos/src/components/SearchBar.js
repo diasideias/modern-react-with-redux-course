@@ -11,8 +11,7 @@ class SearchBar extends React.Component {
         // para prevenir que o formulário submeta da forma padrão (com um enter)
         event.preventDefault()
 
-        //TODO: make sure we call
-        // callback from parent component
+        this.props.onFormSubmit(this.state.term)
     }
 
     render() {
