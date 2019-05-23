@@ -11,12 +11,6 @@
       "id": 2
     },
     {
-      "title": "This is My Stream",
-      "description": "I like this too",
-      "userId": "106687928416287830713",
-      "id": 3
-    },
-    {
       "title": "This is My Other Stream",
       "description": "I don't like this",
       "userId": "106687928416287830713",
@@ -27,12 +21,6 @@
       "description": "I don't like this too",
       "userId": "106687928416287830713",
       "id": 5
-    },
-    {
-      "title": "This Title to Test Patch request",
-      "description": "This desciption is testing patch request too",
-      "userId": "106687928416287830713",
-      "id": 6
     },
     {
       "title": "Yaeaahhh the other great stream",
