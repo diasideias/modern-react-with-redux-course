@@ -2,14 +2,6 @@
 
 # dependencies
 /node_modules
-/blog/node_modules
-/components/node_modules
-/jsx/node_modules
-/pics/node_modules
-/seasons/node_modules
-/streams/node_modules
-/streams/rtmserver/node_modules
-/videos/node_modules
 /.pnp
 .pnp.js
 
